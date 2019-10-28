@@ -1,0 +1,240 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    background-image: url(img/02.jpg);
+    background-repeat: no-repeat;
+    background-size: 107%;
+    background-attachment: fixed;
+}
+div#vacio
+{
+    width: 100%;
+    height: 1000px;
+}
+
+
+
+/* TIPOGRAFIA EN LA IMAGEN*/
+p{
+    font-family: "GreatVibes-Regular";
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding: 700px 0px 0px 0px;
+}
+
+.cas
+{
+    font-family: 'Merriweather-Bold';
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    letter-spacing:3px;
+    padding-top:auto; 
+}
+
+.fecha
+{
+    font-family: 'Merriweather-Bold';
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    letter-spacing:3px;
+    padding:10px 0px 0px 0px; 
+}
+
+/*****************************************************/
+
+
+
+div#cont
+{
+    width:100% ;
+    height:1200;
+    background-color:white;
+}
+
+div#body
+{
+    margin:auto;
+    width:1500px;
+    height:1200px;
+    background-color:white;
+}
+
+/* Tipografia para "Estas Invitado"*/
+.inv
+{
+    padding: 20px 0px 0px 0px;
+    font-family: "andalusia";
+    font-size: 40px;
+    text-align: center;
+}
+
+/* Tipografia para "QUEREMOS COMPARTIR"*/
+.imp
+{
+    font-family: "Montserrat-SemiBold";
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    
+    padding: 0px 0px 0px 720px;
+    
+    }
+
+.cero
+{
+    font-family: "Montserrat-SemiBold";
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;  
+}
+
+.uno
+{
+    font-family: "Montserrat-Light";
+    font-size: 12px;
+    text-align: center;
+    padding: 2px;
+}
+.dos
+{
+    font-family: "Montserrat-Light";
+    font-size: 12px;
+    text-align: center;
+    padding: 2px;
+}
+.tres
+{
+    font-family: "Montserrat-Light";
+    font-size: 13px;
+    text-align: center;
+    padding: 2px;
+}
+
+button{
+    display: inline-block;
+    margin:20px 0px 0px 680px;
+    background-color: #A3F4D9 ;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400px;
+    border: solid 1px #8CEACA ;
+    text-decoration: none;
+    padding: 8px 34px;
+    font-size: 12px;
+    
+  }
+
+
+.ves
+{
+    padding: 30px 0px 0px 0px; 
+}  
+
+.vestimenta
+{
+    font-family: "Montserrat-SemiBold";
+    font-size: 17px;
+    text-align: center;
+    padding: 10px; 
+}
+.vest
+{
+    font-family: "Montserrat-Light";
+    font-size: 15px;
+    text-align: center;
+    padding: 5px 0px 0px 8px; 
+}
+
+
+.regal
+{
+    margin: 50px 0px 0px 0px;
+}
+
+.reg1
+{
+    font-family: "Montserrat-SemiBold";
+    font-size: 19px;
+    text-align: center;
+    padding: 10px; 
+}
+
+.reg2
+{
+    font-family: "Montserrat-Light";
+    font-size: 11px;
+    text-align: center;
+    padding: 8px 0px 0px 8px;    
+}
+
+
+h4
+{
+    font-family: "Montserrat-SemiBold";
+    font-size: 19px;
+    text-align: center;
+    padding: 10px; 
+}
+
+.esperamos
+{
+    font-family: "GreatVibes-Regular";
+    font-size: 35px;
+    text-align: center;
+}
+
+
+.bot
+{
+
+    margin:20px 0px 0px 650px;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+
+@font-face
+{
+    font-family: "GreatVibes-Regular";
+    src: url(GreatVibes-Regular.ttf);
+    
+}
+@font-face
+{
+    font-family: "andalusia-bold";
+    src: url(andalusia.otf);
+    
+}
+
+@font-face
+{
+    font-family: "Montserrat-SemiBold";
+    src: url(Montserrat-SemiBold.ttf);
+    
+}
+
+@font-face
+{
+    font-family: "Merriweather-Bold";
+    src: url(Merriweather-Bold.ttf);
+    
+}
+@font-face
+{
+    font-family: "Montserrat-Light";
+    src: url(Montserrat-Light.ttf);
+    
+}
